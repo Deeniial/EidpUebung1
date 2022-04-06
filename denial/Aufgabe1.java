@@ -12,7 +12,7 @@ public class Aufgabe1 {
             return "Die Zahl ist Negativ!";
         }
         else{
-            return "Die Zahl ist Positiv!"
+            return "Die Zahl ist Positiv!";
         }
     }
 
